@@ -1,0 +1,13 @@
+Original file line number	Diff line number	Diff line change
+@@ -1,2 +1,11 @@
+# target-account-COMMNAD
+apt update apt upgrade pkg install python pkg install python2 pip2 install requests pip2 install mechanize pkg install git https://github.com/chokorohit/chokorohit.git
+apt update 
+apt upgrade 
+pkg install python 
+pkg install python2
+ pip2 install requests 
+pip2 install mechanize 
+pkg install git 
+https://github.com/chokorohit/chokorohit.git
+python2 Choko.py
